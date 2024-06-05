@@ -29,7 +29,7 @@ const Index = () => {
 
       {/* Central Feed */}
       <Box flex="1" p={4}>
-        <Text fontSize="2xl" mb={4}>Home</Text>
+        <Text fontSize="2xl" mb={4}>Home!</Text>
         {/* Example Post */}
         <Box p={4} bg="white" borderRadius="md" boxShadow="sm" mb={4}>
           <HStack spacing={4}>
